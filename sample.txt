@@ -2,3 +2,4 @@ This is a sample text file
 Practicing git commands.
 1st line
 2nd line
+3rd line
