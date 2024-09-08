@@ -6,3 +6,4 @@ Practicing git commands.
 
 
 Feature 1
+Feature 2
