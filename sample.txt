@@ -4,8 +4,3 @@ Practicing git commands.
 2nd line
 3rd line
 
-
-Feature 1
-Feature 2
-
-Feature 3
